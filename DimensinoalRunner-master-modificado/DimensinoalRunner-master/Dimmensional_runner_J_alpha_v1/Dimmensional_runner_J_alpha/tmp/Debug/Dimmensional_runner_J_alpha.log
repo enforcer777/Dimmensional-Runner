@@ -1,0 +1,15 @@
+﻿  Caja.cpp
+c:\users\jose manuel\downloads\dimensinoalrunner-master-modificado\dimensinoalrunner-master\dimmensional_runner_j_alpha\src\caja.cpp(2): fatal error C1083: No se puede abrir el archivo incluir: 'glut.h': No such file or directory
+  DR.cpp
+c:\users\jose manuel\downloads\dimensinoalrunner-master-modificado\dimensinoalrunner-master\dimmensional_runner_j_alpha\src\dr.cpp(2): fatal error C1083: No se puede abrir el archivo incluir: 'glut.h': No such file or directory
+  Interaccion.cpp
+  Mundo.cpp
+c:\users\jose manuel\downloads\dimensinoalrunner-master-modificado\dimensinoalrunner-master\dimmensional_runner_j_alpha\src\mundo.cpp(2): fatal error C1083: No se puede abrir el archivo incluir: 'glut.h': No such file or directory
+  Pared.cpp
+c:\users\jose manuel\downloads\dimensinoalrunner-master-modificado\dimensinoalrunner-master\dimmensional_runner_j_alpha\src\pared.cpp(2): fatal error C1083: No se puede abrir el archivo incluir: 'glut.h': No such file or directory
+  Perk.cpp
+  Personaje.cpp
+  Vector2D.cpp
+c:\users\jose manuel\downloads\dimensinoalrunner-master-modificado\dimensinoalrunner-master\dimmensional_runner_j_alpha\src\vector2d.cpp(17): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\jose manuel\downloads\dimensinoalrunner-master-modificado\dimensinoalrunner-master\dimmensional_runner_j_alpha\src\vector2d.cpp(24): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  Generando código...
